@@ -1,0 +1,65 @@
+[
+    {
+        "geometry": {
+            "location": {
+                "lat": 16.5541773,
+                "lng": 74.5302244
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 16.554177308437435,
+                    "lng": 74.5302244461584
+                },
+                "southwest": {
+                    "lat": 37.75440261970851,
+                    "lng": 74.5302244461584
+                }
+            }
+        },
+        "name": "Sadalaga Cyclery",
+        "rating": 4.2,
+        "vicinity": "1077 Sadalaga Street, Belgaum"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 16.5407962,
+                "lng": 74.4881023
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 16.540796212905263,
+                    "lng": 74.48810230100757
+                },
+                "southwest": {
+                    "lat": 16.540796212905263,
+                    "lng": 74.48810230100757
+                }
+            }
+        },
+        "name": "Kadaklat Bicycle Rentals",
+        "rating": 4.5,
+        "vicinity": "425 Jefferson Street, San Belgaum"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 16.5128852,
+                "lng": 74.5275305
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 16.512885207870745,
+                    "lng": 74.52753058900257
+                },
+                "southwest": {
+                    "lat": 16.512885207870745,
+                    "lng": 74.52753058900257
+                }
+            }
+        },
+        "name": "Mike's Bikes of Nez",
+        "rating": 4,
+        "vicinity": "1233 Howard Street, Neq"
+    }
+]
